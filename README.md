@@ -1,2 +1,1 @@
-#gezgin
 #G_ROBOT
